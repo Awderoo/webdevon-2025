@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "blog": "Blog",
+    "admin": "Admin"
+  },
+  "home": {
+    "title": "Welcome to Our Company",
+    "subtitle": "We provide innovative solutions for your business",
+    "cta": "Learn More"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "We are a dedicated team committed to excellence",
+    "features": {
+      "team": {
+        "title": "Expert Team",
+        "description": "Our dedicated professionals bring years of experience"
+      },
+      "quality": {
+        "title": "Quality First",
+        "description": "We maintain the highest standards in everything we do"
+      },
+      "goals": {
+        "title": "Goal Oriented",
+        "description": "Focused on achieving measurable results for our clients"
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "Discover what we can do for you",
+    "webDev": {
+      "title": "Web Development",
+      "description": "Custom websites and web applications",
+      "fullDescription": "We create modern, responsive websites and web applications tailored to your specific needs. Our development team uses cutting-edge technologies to deliver fast, secure, and scalable solutions."
+    },
+    "uiDesign": {
+      "title": "UI/UX Design",
+      "description": "Beautiful and intuitive interfaces",
+      "fullDescription": "Our design team creates user-centered interfaces that not only look beautiful but also provide an exceptional user experience. We focus on intuitive navigation, accessibility, and visual appeal."
+    },
+    "marketing": {
+      "title": "Digital Marketing",
+      "description": "Growth strategies that deliver results",
+      "fullDescription": "Drive your business growth with our comprehensive digital marketing services. From SEO and content marketing to social media management and PPC campaigns, we help you reach and engage your target audience."
+    },
+    "consulting": {
+      "title": "Consulting",
+      "description": "Expert advice and guidance",
+      "fullDescription": "Get strategic guidance from our experienced consultants. We help you navigate technical challenges, optimize processes, and make informed decisions about your digital presence."
+    },
+    "features": {
+      "title": "What we offer",
+      "list": [
+        "Professional team with years of experience",
+        "Customized solutions for your needs",
+        "Modern and innovative approaches",
+        "Ongoing support and maintenance",
+        "Competitive pricing",
+        "Fast turnaround times"
+      ]
+    },
+    "cta": "Get Started",
+    "backToServices": "Back to Services",
+    "serviceNotFound": "Service not found"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send Message"
+    },
+    "info": {
+      "email": {
+        "title": "Email",
+        "value": "contact@company.com"
+      },
+      "phone": {
+        "title": "Phone",
+        "value": "+1 (555) 123-4567"
+      },
+      "address": {
+        "title": "Address",
+        "value": "123 Business Street, City, Country"
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Latest insights and updates",
+    "editor": {
+      "title": "Title",
+      "excerpt": "Excerpt",
+      "content": "Content",
+      "author": "Author",
+      "imageUrl": "Image URL (Unsplash)",
+      "cancel": "Cancel",
+      "publish": "Publish Post"
+    }
+  }
+}

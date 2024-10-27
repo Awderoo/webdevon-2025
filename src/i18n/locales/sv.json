@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Hem",
+    "about": "Om oss",
+    "services": "Tjänster",
+    "contact": "Kontakt",
+    "blog": "Blogg",
+    "admin": "Admin"
+  },
+  "home": {
+    "title": "Välkommen till vårt företag",
+    "subtitle": "Vi erbjuder innovativa lösningar för ditt företag",
+    "cta": "Läs mer"
+  },
+  "about": {
+    "title": "Om oss",
+    "description": "Vi är ett dedikerat team som strävar efter excellens",
+    "features": {
+      "team": {
+        "title": "Expert Team",
+        "description": "Våra dedikerade proffs har många års erfarenhet"
+      },
+      "quality": {
+        "title": "Kvalitet Först",
+        "description": "Vi upprätthåller högsta standard i allt vi gör"
+      },
+      "goals": {
+        "title": "Målmedvetna",
+        "description": "Fokuserade på att uppnå mätbara resultat för våra kunder"
+      }
+    }
+  },
+  "services": {
+    "title": "Våra tjänster",
+    "description": "Upptäck vad vi kan göra för dig",
+    "webDev": {
+      "title": "Webbutveckling",
+      "description": "Skräddarsydda webbplatser och applikationer",
+      "fullDescription": "Vi skapar moderna, responsiva webbplatser och webbapplikationer anpassade efter dina specifika behov. Vårt utvecklingsteam använder toppmodern teknik för att leverera snabba, säkra och skalbara lösningar."
+    },
+    "uiDesign": {
+      "title": "UI/UX Design",
+      "description": "Vackra och intuitiva gränssnitt",
+      "fullDescription": "Vårt designteam skapar användarcentrerade gränssnitt som inte bara ser vackra ut utan också ger en exceptionell användarupplevelse. Vi fokuserar på intuitiv navigering, tillgänglighet och visuell tilltalande."
+    },
+    "marketing": {
+      "title": "Digital Marknadsföring",
+      "description": "Tillväxtstrategier som ger resultat",
+      "fullDescription": "Driv din företagstillväxt med våra omfattande digitala marknadsföringstjänster. Från SEO och innehållsmarknadsföring till hantering av sociala medier och PPC-kampanjer hjälper vi dig att nå och engagera din målgrupp."
+    },
+    "consulting": {
+      "title": "Konsulting",
+      "description": "Expert råd och vägledning",
+      "fullDescription": "Få strategisk vägledning från våra erfarna konsulter. Vi hjälper dig att navigera tekniska utmaningar, optimera processer och fatta välgrundade beslut om din digitala närvaro."
+    },
+    "features": {
+      "title": "Vad vi erbjuder",
+      "list": [
+        "Professionellt team med års erfarenhet",
+        "Anpassade lösningar för dina behov",
+        "Moderna och innovativa metoder",
+        "Kontinuerligt stöd och underhåll",
+        "Konkurrenskraftiga priser",
+        "Snabb leveranstid"
+      ]
+    },
+    "cta": "Kom igång",
+    "backToServices": "Tillbaka till tjänster",
+    "serviceNotFound": "Tjänsten hittades inte"
+  },
+  "contact": {
+    "title": "Kontakta oss",
+    "form": {
+      "name": "Namn",
+      "email": "E-post",
+      "message": "Meddelande",
+      "send": "Skicka meddelande"
+    },
+    "info": {
+      "email": {
+        "title": "E-post",
+        "value": "contact@company.com"
+      },
+      "phone": {
+        "title": "Telefon",
+        "value": "+1 (555) 123-4567"
+      },
+      "address": {
+        "title": "Adress",
+        "value": "123 Business Street, City, Country"
+      }
+    }
+  },
+  "blog": {
+    "title": "Blogg",
+    "subtitle": "Senaste insikterna och uppdateringarna",
+    "editor": {
+      "title": "Titel",
+      "excerpt": "Utdrag",
+      "content": "Innehåll",
+      "author": "Författare",
+      "imageUrl": "Bild URL (Unsplash)",
+      "cancel": "Avbryt",
+      "publish": "Publicera inlägg"
+    }
+  }
+}
